@@ -5,7 +5,7 @@
 
 I am a **B.Tech.** graduate from **IIIT Lucknow** in **Information Technology**.
 
-Skills: REACT / JS / HTML / CSS / PYTHON / JAVA /C & C++ / DATA STRUCTURES And ALGORITHMS
+Skills: REACT / REDUX / JS / HTML / CSS / PYTHON / JAVA /C & C++ / DATA STRUCTURES And ALGORITHMS
 
 - 🌱 I’m currently learning Rest APIs 
 - 📫 How to reach me: adityaraj92.20@gmail.com 
