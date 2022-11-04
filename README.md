@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Aditya
-#### *Technical Consultant from 9 to 5*-----**```Software Developer after that...```**
+#### *Software Developer*
 ![My Idea](https://user-images.githubusercontent.com/48626792/129196230-646aaf7b-e9b9-4b98-b83e-245d170a08db.gif)
 
 
